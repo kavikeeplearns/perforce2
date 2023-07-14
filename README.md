@@ -3,5 +3,6 @@ perforce interview 2nd level.
 1) Download the source code to your workfolder in ubunut
 2) run following command
 $ g++ finder.cpp -o finder
-3) execute below commd
+3) execute following command
 $ ./finder
+4) Follow on screen instructions
